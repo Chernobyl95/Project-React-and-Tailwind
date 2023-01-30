@@ -5,6 +5,7 @@ const Hero = () => {
     <div className='w-full h-[90vh]'>
       <img
         src='https://img2.goodfon.com/wallpaper/nbig/f/42/netherlands-north-holland.jpg'
+        alt='/'
         className='w-full h-full object-cover'
       />
       <div className='max-w-[1140px] m-auto'>
